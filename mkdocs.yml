@@ -1,0 +1,18 @@
+site_name: Professional Agentic Architect Study Guide
+site_description: Independent study notes and hands-on labs for the Google Cloud Professional Agentic Architect certification
+site_url: ""
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Exam Domains:
+      - Low-Code Agents: docs/01-low-code-agents/README.md
+      - Coding Agents: docs/02-coding-agents/README.md
+      - Custom Agents: docs/03-custom-agents/README.md
+      - Evaluation & Deployment: docs/04-evaluation-deployment/README.md
+      - Security & Governance: docs/05-security-governance/README.md
+  - Hands-on Labs: labs/README.md
+  - Architecture: architecture/README.md
+  - Practice Questions: questions/README.md
