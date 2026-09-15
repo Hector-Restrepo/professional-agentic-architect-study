@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Professional Agentic Architect Study Guide
 
 > An independent, community-oriented study resource for the Google Cloud Professional Agentic Architect certification.
@@ -10,23 +15,23 @@ The goal is to turn what I learn into a resource that can also help other people
 
 ## Exam domains
 
-### 1. Low-Code Agents
+### [1. Low-Code Agents](01-low-code-agents/README.md)
 
 Building agents using low-code and enterprise agent platforms.
 
-### 2. Coding Agents
+### [2. Coding Agents](02-coding-agents/README.md)
 
 Working with coding agents, including Antigravity and related development concepts.
 
-### 3. Custom Agents
+### [3. Custom Agents](03-custom-agents/README.md)
 
 Building custom agents using technologies such as ADK, MCP, RAG, memory, and multi-agent architectures.
 
-### 4. Evaluation & Deployment
+### [4. Evaluation & Deployment](04-evaluation-deployment/README.md)
 
 Evaluating, deploying, monitoring, and troubleshooting production agents.
 
-### 5. Security & Governance
+### [5. Security & Governance](05-security-governance/README.md)
 
 Designing secure, governed agentic systems.
 
