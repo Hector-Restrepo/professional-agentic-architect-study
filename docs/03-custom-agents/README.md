@@ -1,10 +1,12 @@
 # Custom Agents
 
-Domain 3 is divided into three sections. Each section has its own NotebookLM workspace and NotebookLM Studio study resources.
+Domain 3 — **Developing Custom Agents** — represents approximately 33% of the exam and is divided into three major sections.
+
+Each section below has a dedicated NotebookLM workspace and NotebookLM Studio resources for studying that portion of the exam.
 
 ---
 
-## Section 3.1
+## Section 3.1 - Designing and Building Agentic Workflows in Code
 
 ### 📓 NotebookLM
 
@@ -28,7 +30,7 @@ Use the NotebookLM workspace to explore the sources, ask questions, and study Se
 
 ---
 
-## Section 3.2
+## Section 3.2 - Integrating Enterprise Domain Knowledge
 
 ### 📓 NotebookLM
 
@@ -52,7 +54,7 @@ Use the NotebookLM workspace to explore the sources, ask questions, and study Se
 
 ---
 
-## Section 3.3
+## Section 3.3 - Orchestrating and Coordinating Agentic Workflows
 
 ### 📓 NotebookLM
 
