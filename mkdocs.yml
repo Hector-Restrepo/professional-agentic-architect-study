@@ -8,11 +8,8 @@ theme:
 nav:
   - Home: index.md
   - Exam Domains:
-      - Low-Code Agents: docs/01-low-code-agents/README.md
-      - Coding Agents: docs/02-coding-agents/README.md
-      - Custom Agents: docs/03-custom-agents/README.md
-      - Evaluation & Deployment: docs/04-evaluation-deployment/README.md
-      - Security & Governance: docs/05-security-governance/README.md
-  - Hands-on Labs: labs/README.md
-  - Architecture: architecture/README.md
-  - Practice Questions: questions/README.md
+      - Low-Code Agents: 01-low-code-agents/README.md
+      - Coding Agents: 02-coding-agents/README.md
+      - Custom Agents: 03-custom-agents/README.md
+      - Evaluation & Deployment: 04-evaluation-deployment/README.md
+      - Security & Governance: 05-security-governance/README.md
